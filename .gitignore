@@ -37,6 +37,5 @@ App_Data/
 *.sln.DotSettings.*
 *.ncrunchproject
 *.ncrunchsolution
-*.nupkg
 *.vs
 *.vscode
